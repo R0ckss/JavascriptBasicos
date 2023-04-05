@@ -1,3 +1,8 @@
+/* Crear un programa para solucionar lo siguiente:
+En una tienda se ofrece un descuento fijo del 15% del monto
+de la compra de ciertos productos, determine el monto
+del descuento y el monto a pagar por la compra de cierta
+cantidad de unidades del producto */
 let cantidad, precio, descuento, compra, pagar;
     precio = parseFloat(prompt("Ingresar el precio del producto"));
     cantidad = parseInt(prompt("Ingresar la cantidad de productos"));

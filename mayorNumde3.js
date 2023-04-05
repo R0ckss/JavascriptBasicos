@@ -1,3 +1,4 @@
+/* crear programa para hallar el mayor de 3 numeros dados */
 let num1, num2, num3;
     num1 = parseFloat(prompt("Ingresa el primer numero"));
     num2 = parseFloat(prompt("Ingresa el segundo numero"));
