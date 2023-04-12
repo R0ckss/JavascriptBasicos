@@ -1,3 +1,4 @@
+//Comparar el ultimo digito de 2 numeros
 let numero1, numero2, ultimoDig1, ultimoDig2;
 
     numero1 = parseInt(prompt("Ingrese el primer numero a comparar"));
